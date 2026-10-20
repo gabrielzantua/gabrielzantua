@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="226" viewBox="0 0 960 226" role="img" aria-labelledby="title desc">
 <title id="title">TryHackMe profile badge for pinggu0x: Mage (0x9)</title>
-<desc id="desc">Mage, level 0x9, 124 rooms, 10666 points, 15 badges, and a 97 day streak.</desc>
+<desc id="desc">Mage, level 0x9, 124 rooms, 10666 points, 15 badges, and a 98 day streak.</desc>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#a8e63f"/>
@@ -35,7 +35,7 @@
 </g><g transform="translate(764 133)">
   <rect width="168" height="76" rx="12" fill="#111a24" stroke="#283746"/>
   <text x="15" y="25" class="label">STREAK</text>
-  <text x="15" y="58" class="value">97 DAYS</text>
+  <text x="15" y="58" class="value">98 DAYS</text>
 </g>
 <style>
   .eyebrow { fill:#88cc14; font:700 12px 'Segoe UI',Arial,sans-serif; letter-spacing:2px; }
