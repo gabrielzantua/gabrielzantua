@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/pinggu0x">
-    <img src="assets/tryhackme-profile-611bb1bd18b9.svg" alt="TryHackMe profile stats for pinggu0x">
+    <img src="assets/tryhackme-profile-d7a4e95b1dd1.svg" alt="TryHackMe profile stats for pinggu0x">
   </a>
 </p>
 
