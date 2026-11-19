@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 ## Areas I'm exploring
 
 - Linux systems and configuration
